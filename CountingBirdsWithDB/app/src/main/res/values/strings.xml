@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountingBirdsWithDB</string>
+    <string name="btn_reset">RESET</string>
+    <string name="counter_string">0</string>
+</resources>
