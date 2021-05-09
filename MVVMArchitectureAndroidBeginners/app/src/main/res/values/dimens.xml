@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="constraint_height">60dp</dimen>
+    <dimen name="ivAvatar_width">60dp</dimen>
+    <dimen name="ivAvatar_height">0dp</dimen>
+    <dimen name="ivAvatar_padding">4dp</dimen>
+    <dimen name="widgets_width">0dp</dimen>
+    <dimen name="widgets_margin">8dp</dimen>
+    <dimen name="tvUserName_marginTop">4dp</dimen>
+</resources>
